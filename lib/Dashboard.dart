@@ -25,7 +25,8 @@ class _DashboardState extends State<Dashboard>{
     setState(() {
       data=a;
     });
-//print (data);
+    
+print (data);
     isloading=false;
   }
 
